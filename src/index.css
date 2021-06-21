@@ -1,0 +1,46 @@
+.navbar-dark {
+    background-color: #512DA8;
+  }
+.hgt{
+ height: 250px; 
+}
+.my_cont{
+  border: 3px solid red;
+  border-color: Red;
+  background-color: coral;
+}
+.my_row{
+  border: 2px dashed black;
+  padding: 2px;
+  border-radius: 10px;
+}
+.my_col{
+  border: 1px ;
+  border-color: blueviolet;
+  background-color: darkcyan;
+}
+.r1{
+  background-color: blanchedalmond;
+}
+.r2{
+  background-color: cadetblue;
+}
+.r3{
+  background-color: darkcyan;
+}
+.r4{
+  background-color: darksalmon;
+}
+.r5{
+  background-color: deeppink;
+}
+.r6{
+  background-color: khaki;
+}
+.r11{
+  background-color: rosybrown;
+  min-height: auto
+}
+.r12{
+  background-color: royalblue;
+}
